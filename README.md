@@ -1,9 +1,3 @@
-# Pattern Sails
+# RPG
 
-Base pour un projet sails
-
-Installé:
-
--Connection avec serveur MySQL
-
--Authentification en place avec passport.js(User, UserController, AuthController)
+Projet pour expérimenter le framework Phaser en front(Javascript) avec en back le framework Sails.js
